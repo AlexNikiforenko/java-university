@@ -27,4 +27,5 @@ public class Main {
         while (i < numbers.length + 1);
         System.out.println("Sum with \"do while\" = " + sum);
     }
+
 }

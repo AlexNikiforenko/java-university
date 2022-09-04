@@ -5,19 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3636a5fd-699a-4d8a-aca5-164fc17bb54b" name="Changes" comment="Practical Work #1 completed.">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_tasks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p1/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p1/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p1/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p1/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p1/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2/DogHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,32 +39,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="p1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task6">
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p1.Task4" />
+  <component name="RunManager" selected="Application.DogHouse">
+    <configuration name="Ball" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p2.Ball" />
       <module name="java_tasks" />
-      <option name="PROGRAM_PARAMETERS" value="arg_1 arg_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p1.*" />
+          <option name="PATTERN" value="p2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p1.Task5" />
+    <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p2.Book" />
       <module name="java_tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p1.*" />
+          <option name="PATTERN" value="p2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p1.Task6" />
+    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p2.Dog" />
       <module name="java_tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p1.*" />
+          <option name="PATTERN" value="p2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p1.Task7" />
+    <configuration name="DogHouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p2.DogHouse" />
       <module name="java_tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p1.*" />
+          <option name="PATTERN" value="p2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p1.Task8" />
+    <configuration name="Shape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p2.Shape" />
       <module name="java_tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p1.*" />
+          <option name="PATTERN" value="p2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,19 +124,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Task5" />
-      <item itemvalue="Application.Task6" />
-      <item itemvalue="Application.Task7" />
-      <item itemvalue="Application.Task8" />
-      <item itemvalue="Application.Task4" />
+      <item itemvalue="Application.Ball" />
+      <item itemvalue="Application.Book" />
+      <item itemvalue="Application.Dog" />
+      <item itemvalue="Application.DogHouse" />
+      <item itemvalue="Application.Shape" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task6" />
-        <item itemvalue="Application.Task8" />
-        <item itemvalue="Application.Task7" />
-        <item itemvalue="Application.Task5" />
-        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.DogHouse" />
+        <item itemvalue="Application.Dog" />
+        <item itemvalue="Application.Book" />
+        <item itemvalue="Application.Ball" />
+        <item itemvalue="Application.Shape" />
       </list>
     </recent_temporary>
   </component>
@@ -155,19 +148,51 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662213529895</updated>
-      <workItem from="1662213533514" duration="7553000" />
+      <workItem from="1662213533514" duration="7877000" />
+      <workItem from="1662221822962" duration="8942000" />
     </task>
+    <task id="LOCAL-00001" summary="Practical Work #1 completed.">
+      <created>1662221579003</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662221579003</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
