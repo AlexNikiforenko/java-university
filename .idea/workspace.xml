@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3636a5fd-699a-4d8a-aca5-164fc17bb54b" name="Changes" comment="Practical Work #1 completed.">
-      <change afterPath="$PROJECT_DIR$/src/p2/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p2/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p2/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p2/DogHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p2/Shape.java" afterDir="false" />
+    <list default="true" id="3636a5fd-699a-4d8a-aca5-164fc17bb54b" name="Changes" comment="Practical Work #2 completed.">
+      <change afterPath="$PROJECT_DIR$/src/p3/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3/BookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3/Hand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3/Head.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3/Leg.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +59,13 @@
       <recent name="p1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DogHouse">
-    <configuration name="Ball" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p2.Ball" />
+  <component name="RunManager" selected="Application.BookTest">
+    <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p3.BookTest" />
       <module name="java_tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p2.*" />
+          <option name="PATTERN" value="p3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p2.Book" />
+    <configuration name="CircleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p3.CircleTest" />
       <module name="java_tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p2.*" />
+          <option name="PATTERN" value="p3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p2.Shape" />
+    <configuration name="Human" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p3.Human" />
       <module name="java_tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p2.*" />
+          <option name="PATTERN" value="p3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,19 +126,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Ball" />
-      <item itemvalue="Application.Book" />
+      <item itemvalue="Application.BookTest" />
+      <item itemvalue="Application.CircleTest" />
+      <item itemvalue="Application.Human" />
       <item itemvalue="Application.Dog" />
       <item itemvalue="Application.DogHouse" />
-      <item itemvalue="Application.Shape" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BookTest" />
+        <item itemvalue="Application.Human" />
+        <item itemvalue="Application.CircleTest" />
         <item itemvalue="Application.DogHouse" />
         <item itemvalue="Application.Dog" />
-        <item itemvalue="Application.Book" />
-        <item itemvalue="Application.Ball" />
-        <item itemvalue="Application.Shape" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +151,10 @@
       <option name="presentableId" value="Default" />
       <updated>1662213529895</updated>
       <workItem from="1662213533514" duration="7877000" />
-      <workItem from="1662221822962" duration="8942000" />
+      <workItem from="1662221822962" duration="9165000" />
+      <workItem from="1662389430724" duration="361000" />
+      <workItem from="1662389852183" duration="345000" />
+      <workItem from="1662391288598" duration="8043000" />
     </task>
     <task id="LOCAL-00001" summary="Practical Work #1 completed.">
       <created>1662221579003</created>
@@ -158,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662221579003</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Practical Work #2 completed.">
+      <created>1662303261717</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662303261717</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,6 +212,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Practical Work #1 completed." />
-    <option name="LAST_COMMIT_MESSAGE" value="Practical Work #1 completed." />
+    <MESSAGE value="Practical Work #2 completed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Practical Work #2 completed." />
   </component>
 </project>
