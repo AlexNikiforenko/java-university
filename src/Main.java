@@ -1,10 +1,3 @@
-import p4.Square;
-import p5.MovableCircle;
-import p5.MovablePoint;
-import p6.MovablePoints;
-import p6.MovableRectangle;
-import p7.*;
-
 public class Main {
     public static void main(String[] args) {
 
