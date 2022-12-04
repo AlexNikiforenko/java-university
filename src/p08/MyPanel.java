@@ -39,14 +39,14 @@ public class MyPanel extends JPanel {
 
     public void paint(Graphics g) {
         // ==== Animation ====
-//        try {
-//            printAnimation(g);
-//        } catch (InterruptedException e) {
-//            throw new RuntimeException(e);
-//        }
+        try {
+            printAnimation(g);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
 
         // ==== Shapes ====
-        printShapes(g);
+        //printShapes(g);
     }
 
     public void printShapes(Graphics g) {
